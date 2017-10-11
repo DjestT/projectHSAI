@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Analyse/Analyse.toc
+/Analyse/Analyse.synctex.gz
+/Analyse/Analyse.pdf
+/Analyse/Analyse.log
+/Analyse/Analyse.aux
